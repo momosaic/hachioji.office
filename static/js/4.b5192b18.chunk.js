@@ -1,2 +1,0 @@
-(this["webpackJsonpshikuchoson-hazardmap-template"]=this["webpackJsonpshikuchoson-hazardmap-template"]||[]).push([[4],{60:function(a,s,t){"use strict";t.r(s),s.default=t.p+"static/media/\u30b9\u30af\u30ea\u30fc\u30f3\u30b7\u30e7\u30c3\u30c8 2022-01-02 210456.d2b5f08d.png"}}]);
-//# sourceMappingURL=4.b5192b18.chunk.js.map
