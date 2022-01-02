@@ -1,8 +1,22 @@
 name,lat,lon,住所,URL
-八王子市高齢者あんしん相談センター旭町,35.65775017892946,139.33814166881828,八王子市旭町8-10 比留間ビル3階,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018115.html
-八王子市高齢者あんしん相談センター高尾,35.64546550977002,139.29215141114565,八王子市東浅川町551-1 東浅川保健福祉センター2階,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018116.html
-八王子市高齢者あんしん相談センター左入,35.6858128084883,139.34644766881905,八王子市左入町372-4,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018117.html
-八王子市高齢者あんしん相談センター中野,35.67047086720546,139.3164324553269,八王子市中野上町4-27-4　ボナールHONDA1階,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018118.html
-八王子市高齢者あんしん相談センター南大沢,35.611317750625986,139.3826793264892,八王子市南大沢2-17-5,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018119.html
-八王子市高齢者あんしん相談センターめじろ,35.641432762513034,139.31380712649,八王子市めじろ台2-55-5,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018120.html
-八王子市高齢者あんしん相談センター長沼,35.64654468977322,139.36378734342705,八王子市長沼町1302-1 都営長沼第二アパート16号棟1階,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018121.html
+高齢者あんしん相談センター旭町,35.65775017892946,139.33814166881828,八王子市旭町8-10 比留間ビル3階,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018115.html
+高齢者あんしん相談センター高尾,35.64546550977002,139.29215141114565,八王子市東浅川町551-1 東浅川保健福祉センター2階,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018116.html
+高齢者あんしん相談センター左入,35.6858128084883,139.34644766881905,八王子市左入町372-4,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018117.html
+高齢者あんしん相談センター中野,35.67047086720546,139.3164324553269,八王子市中野上町4-27-4　ボナールHONDA1階,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018118.html
+高齢者あんしん相談センター南大沢,35.611317750625986,139.3826793264892,八王子市南大沢2-17-5,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018119.html
+高齢者あんしん相談センターめじろ,35.641432762513034,139.31380712649,八王子市めじろ台2-55-5,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018120.html
+高齢者あんしん相談センター長沼,35.64654468977322,139.36378734342705,八王子市長沼町1302-1 都営長沼第二アパート16号棟1階,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018121.html
+高齢者あんしん相談センター川口,35.69327039747934,139.2792823264915,八王子市川口町908-1 川口事務所内,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018122.html
+高齢者あんしん相談センター元八王子,35.67154659676478,139.29311433998242,八王子市大楽寺町419番地1　元八王子事務所内,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018123.html
+高齢者あんしん相談センター片倉,35.64285597837703,139.3397389823094,八王子市片倉町440-2,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018124.html
+高齢者あんしん相談センター堀之内,35.636896850899355,139.38899811299822,八王子市堀之内1206,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018125.html
+高齢者あんしん相談センター長房,35.65820110861381,139.30048369765422,八王子市長房町340番地12　コピオ長房2階,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018126.html
+高齢者あんしん相談センター子安,35.65406778817516,139.33757759765436,八王子市子安町4-10-9 西村ビル4階,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018127.html
+高齢者あんしん相談センターもとはち南,35.657741765702326,139.28277825532658,八王子市元八王子町2-1964-2 宮崎ビル101,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018128.html
+高齢者あんしん相談センター寺田,35.63177554504689,139.31137132463684,八王子市寺田町137-1,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018129.html
+高齢者あんしん相談センター大横,35.66432476519967,139.32782444218398,八王子市大横町11-35 大横保健福祉センター4階,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018130.html
+高齢者あんしん相談センター恩方,35.667773318778515,139.24912181114613,八王子市下恩方町3395　恩方事務所内,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p018133.html
+高齢者あんしん相談センター由木東,35.63442237781201,139.42162299765366,八王子市鹿島111番地1　由木東事務所内,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p024905.html
+高齢者あんしん相談センター石川,35.68093074689157,139.36600695373482,八王子市石川町481番地　石川事務所内,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p025404.html
+高齢者あんしん相談センター大和田,35.66292071560281,139.3541129553267,八王子市大和田町4丁目5番4号　グローイングシティ大和田J002号,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p026529.html
+高齢者あんしん相談センター追分,35.66092588795635,139.3194525688183,八王子市追分町7番17号　シティーコート西八王子1階,https://www.city.hachioji.tokyo.jp/tantoumadoguchi/012/004/p027305.html
